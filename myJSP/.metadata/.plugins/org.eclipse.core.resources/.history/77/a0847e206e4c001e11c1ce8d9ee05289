@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>페이지 전체 구조</title>
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div id="logo">
+      <img src="images/logo.png" width="265" height="62" alt="Javaline Web">
+    </div>
+    <nav>메인 메뉴</nav>
+  </header>
+ </div>
+</body>
+</html>

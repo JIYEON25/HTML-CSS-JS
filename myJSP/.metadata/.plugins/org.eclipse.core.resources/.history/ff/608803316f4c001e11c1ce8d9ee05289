@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>페이지 전체 구조</title>
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div id="logo">
+      <img src="images/logo.png" width="265" height="62" alt="Javaline Web">
+    </div>
+    <nav id="top_menu">
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li><a href="#">Who is Tommy.Lee?</a></li>
+		<li><a href="#">Member</a></li>
+		<li><a href="#">Board</a></li>
+		<li><a href="#">Ajax Board</a></li>
+	</ul>
+	</nav>
+    <!--왼쪽의 서브메뉴가 들어가는 곳-->
+    <nav id="sub_menu">
+	</nav>
+	<!--실제 내용 콘텐츠가 들어가는 곳-->
+	<article>
+	</article>
+	<!-- 푸터가 들어가는 곳 -->
+	<footer>
+	</footer>
+  </header>
+ </div>
+</body>
+</html>
